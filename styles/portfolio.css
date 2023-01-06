@@ -84,7 +84,7 @@ main {
     margin-top: 130px;
     background: #FFF8F3;
     border-radius: 10px;
-    padding: 130px 150px;
+    padding: 10px 130px 150px 150px;
 }
 
 .section-title {
@@ -126,7 +126,6 @@ main {
 
 /* What i do styles */
 .what {
-    margin-top: 130px;
     background: #ffffff;
     border-radius: 10px;
     padding: 130px 150px;
@@ -163,7 +162,9 @@ main {
 }
 
 /* Resume Styles */
-.resume {}
+.resume {
+    margin-bottom: 100px;
+}
 
 .resume-content {
     display: flex;
